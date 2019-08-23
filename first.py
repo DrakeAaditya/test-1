@@ -1,1 +1,1 @@
-print("Hello, I'm Noob! & Stupid!")
+print("Github is Cool!")
