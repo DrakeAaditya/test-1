@@ -1,1 +1,1 @@
-print("Hello, I'm Noob!")
+print("Hello, I'm Noob! & Stupid!")
